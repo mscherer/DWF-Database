@@ -1,7 +1,7 @@
 "CVE_ID","DATE_REQUESTED","DATE_ASSIGNED","DATE_PUBLIC","REQUESTER","ASSIGNER","REPLACED_BY","VERSION","LAST_UPDATE","STATE","TITLE"
 "DWF-2016-80000","2016-03-22","2016-03-22","","","kurt@seifried.org","",1,"","RESERVED",""
 "DWF-2016-82003","2016-05-16","2016-05-16",,"bmartin@tenable.com","kurt@seifried.org","CVE-2016-1000000",1,"","REPLACED",""
-"DWF-2016-82016","2016-04-20","2016-04-20","2016-04-20","bmartin@tenable.com","bmartin@tenable.com","",1,"","LIVE,"Apache Commons FileUpload DiskFileItem File Manipulation Remote Code Execution (LOBSTER)"
+"DWF-2016-82016","2016-04-20","2016-04-20","2016-04-20","bmartin@tenable.com","bmartin@tenable.com","",1,"","LIVE","Apache Commons FileUpload DiskFileItem File Manipulation Remote Code Execution (LOBSTER)"
 "DWF-2016-89000","2016-03-09","2016-03-09","2016-03-09","patrick@puiterwijk.org","patrick@puiterwijk.org","",1,"","LIVE",""
 "DWF-2016-89001","2016-03-09","2016-03-09","2016-02-09","mcatanzaro@gnome.org","kurt@seifried.org","",1,"","LIVE",""
 "DWF-2016-91000","2016-03-17","2016-03-17","2016-03-21","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","LIVE","Bezeq firmware for Negear DGN2200 - multiple vulnerabilities"
