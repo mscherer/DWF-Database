@@ -15,5 +15,6 @@
 "CVE-2016-1000006","2006-06-28","2016-06-29","","anagawat+cve@fb.com","kurt@seifried.org",,1,,"RESERVED",""
 "CVE-2016-1000007","2006-07-04","2016-07-04","2016-07-04","patrick@puiterwijk.org","kurt@seifried.org",,2,"2016-07-04","PUBLIC","Pagure 2.2.1 XSS in raw file endpoint"
 "CVE-2016-1000008","2006-07-04","2016-07-04","","patrick@puiterwijk.org","kurt@seifried.org",,1,,"RESERVED",""
+"CVE-2016-1000009","2006-07-10","2016-07-10","2016-07-01","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","TP-LINK lost control of tplinklogin.net and tplinkextender.net domains (used for device configuration)"
 "CVE-2016-1000100","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
 "CVE-2016-1000101","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
