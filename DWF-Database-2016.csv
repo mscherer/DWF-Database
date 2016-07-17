@@ -33,6 +33,7 @@
 "CVE-2016-1000024","2006-07-12","2016-07-12","2016-06-21","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","NodeJS shell-quote 1.6.0 and earlier filtering weakness leading to command injection advisory#117"
 "CVE-2016-1000025","2006-07-12","2016-07-12","2016-06-24","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","NodeJS ws 1.1.0 and earlier DoS due to large websocket message advisory#120"
 "CVE-2016-1000026","2006-07-12","2016-07-12","2016-07-05","kseifried@redhat.com","kurt@seifried.org",,1,,"PUBLIC","NodeJS call 2.0.1 and 3.0.1 and earlier are vulnerable to an invalid input to route validation rules advisory#121"
+"CVE-2016-1000027","2006-07-08","2016-07-17","2016-07-08","bmartin@tenable.com","kurt@seifried.org",,1,,"PUBLIC","Pivotal Spring Framework HttpInvokerServiceExporter readRemoteInvocation Method Untrusted Java Deserialization advisory#TRA-2016-20"
 "CVE-2016-1000100","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
 "CVE-2016-1000101","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
 "CVE-2016-1000102","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
