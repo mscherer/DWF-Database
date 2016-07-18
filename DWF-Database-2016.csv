@@ -40,7 +40,7 @@
 "CVE-2016-1000103","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
 "CVE-2016-1000104","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
 "CVE-2016-1000105","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
-"CVE-2016-1000106","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
+"CVE-2016-1000106","2006-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5388",2,,"REPLACED",""
 "CVE-2016-1000107","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
 "CVE-2016-1000108","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
 "CVE-2016-1000109","2006-07-06","2016-07-06","","kseifried@redhat.com","kurt@seifried.org",,1,,"RESERVED",""
