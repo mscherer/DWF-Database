@@ -36,6 +36,7 @@
 "CVE-2016-1000027","2006-07-08","2016-07-17","2016-07-08","bmartin@tenable.com","kurt@seifried.org",,1,,"PUBLIC","Pivotal Spring Framework HttpInvokerServiceExporter readRemoteInvocation Method Untrusted Java Deserialization advisory#TRA-2016-20"
 "CVE-2016-1000028","2006-07-11","2016-07-18","","bmartin@tenable.com","kurt@seifried.org",,1,,"RESERVED",""
 "CVE-2016-1000029","2006-07-11","2016-07-18","","bmartin@tenable.com","kurt@seifried.org",,1,,"RESERVED",""
+"CVE-2016-1000030","2006-07-17","2016-07-19","","grim@reaperworld.com","kurt@seifried.org",,1,,"PUBLIC","Pidgin before version 2.11.0 is vulnerable to a X.509 certificates import issue when using GnuTLS due to issues in gnutls_x509_crt_init() and gnutls_x509_crt_import()"
 "CVE-2016-1000100","2006-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5385",2,"2016-07-18","REPLACED",""
 "CVE-2016-1000101","2006-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5386",2,"2016-07-18","REPLACED",""
 "CVE-2016-1000102","2006-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5387",2,"2016-07-18","REPLACED",""
