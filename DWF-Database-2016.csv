@@ -54,7 +54,7 @@
 "CVE-2016-1000109","2006-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org",,2,"2016-07-18","PUBLIC","HHVM FastCGI sets environmental variable HTTP_PROXY based on user supplied Proxy request header (httpoxy)"
 "CVE-2016-1000110","2006-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org",,2,"2016-07-18","PUBLIC","Python CGIHandler sets environmental variable HTTP_PROXY based on user supplied Proxy request header (httpoxy)"
 "CVE-2016-1000111","2006-07-17","2016-07-17","2016-07-18","kseifried@redhat.com","kurt@seifried.org",,2,"2016-07-18","PUBLIC","Python twisted sets environmental variable HTTP_PROXY based on user supplied Proxy request header (httpoxy)"
-"CVE-2016-1000112","2006-07-20","2016-07-20","","larry0@me.com","kurt@seifried.org",,1,"2016-07-20","PUBLIC","Unauthenticated remote .jpg file upload in contus-video-comments v1.0 wordpress plugin"
+"CVE-2016-1000112","2006-07-20","2016-07-20","2016-07-20","larry0@me.com","kurt@seifried.org",,1,"2016-07-20","PUBLIC","Unauthenticated remote .jpg file upload in contus-video-comments v1.0 wordpress plugin"
 "CVE-2016-1000113","2006-07-20","2016-07-20","2016-07-20","larry0@me.com","kurt@seifried.org",,1,"","PUBLIC","Reflected XSS in Huge IT gallery v1.1.5 for Joomla"
 "CVE-2016-1000114","2006-07-20","2016-07-20","2016-07-20","larry0@me.com","kurt@seifried.org",,1,"","PUBLIC","SQLi in Huge IT gallery v1.1.5 for Joomla"
 "CVE-2016-1000115","2006-07-20","2016-07-20","2016-07-20","larry0@me.com","kurt@seifried.org",,1,"","PUBLIC","Reflected XSS in Huge IT Portfolio Gallery manager v1.1.5 for Joomla"
