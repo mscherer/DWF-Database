@@ -1,0 +1,5 @@
+---
+language: python
+python: "2.7"
+script:
+- for i in DWF-Database*csv; do echo $i ; python check_csv.py $i ;done; 
