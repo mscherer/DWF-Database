@@ -42,6 +42,7 @@
 "CVE-2016-1000033","2016-03-09","2016-07-19","","mcatanzaro@gnome.org","kurt@seifried.org","",1,"","PUBLIC","Gnome Shotwell fails to validate SSL/TLS certificates properly"
 "CVE-2016-1000034","2016-03-17","2016-07-19","","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","PUBLIC","Bezeq firmware for Negear DGN2200 - multiple vulnerabilities"
 "CVE-2016-1000035","2016-03-17","2016-07-19","","0x3d5157636b525761@gmail.com","0x3d5157636b525761@gmail.com","",1,"","PUBLIC","ASUS driver unsafe operation"
+"CVE-2016-1000036","2016-03-21","2016-07-21","","mscherer@redhat.com","kurt@seifried.org","",1,"","PUBLIC","pnda 0.1.0 and earlier use an HTTP url to download software packages and the signing key used to verify them"
 "CVE-2016-1000100","2006-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5385",2,"2016-07-18","REPLACED",""
 "CVE-2016-1000101","2006-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5386",2,"2016-07-18","REPLACED",""
 "CVE-2016-1000102","2006-07-06","2016-07-06","2016-07-18","kseifried@redhat.com","kurt@seifried.org","CVE-2016-5387",2,"2016-07-18","REPLACED",""
